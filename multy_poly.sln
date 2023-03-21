@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multy_poly", "multy_poly\multy_poly.vcxproj", "{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}.Debug|x64.ActiveCfg = Debug|x64
+		{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}.Debug|x64.Build.0 = Debug|x64
+		{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}.Debug|x86.ActiveCfg = Debug|Win32
+		{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}.Debug|x86.Build.0 = Debug|Win32
+		{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}.Release|x64.ActiveCfg = Release|x64
+		{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}.Release|x64.Build.0 = Release|x64
+		{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}.Release|x86.ActiveCfg = Release|Win32
+		{D74E127B-7EC3-473B-AF0C-49B70DCCDB21}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D4588AE-017A-4687-94AC-2EF8FFED8228}
+	EndGlobalSection
+EndGlobal
